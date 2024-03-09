@@ -9,3 +9,9 @@ it will bring the game to a state of total crush
 which will lead to the disqualification of the level.
 Each enemy can have number of lives depending on the level.
 Therefore there will be enemies that will die only after several shots.
+
+<img width="675" alt="image" src="https://github.com/GabiDunaevsky/War_game/assets/79164312/458038e9-74e4-40ce-9a80-bfb479962800">
+
+I did this project with an MVC design, there is a clear division of the view and the controller into different packages. Regarding the model, I attached to each level its own data (photos, music, etc.) that basically represents the model. In addition, I used additional techniques of design patterns, such as Factory design.
+
+
